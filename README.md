@@ -6,8 +6,13 @@ This project demonstrates fundamental data preprocessing techniques, the use of 
 Features:
 
 . Data Cleaning and Preprocessing
+
 . Feature Selection
+
 . Model Training using Linear Regression
+
 . Model Evaluation using MAE, MSE, and R-squared
+
 . Custom House Price Prediction Function
+
 This project is a useful example of how to approach predictive modeling in real estate, focusing on house prices as the target variable.
